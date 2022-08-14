@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Happy Brithday</string>
+    <string name="hello_world">Hello Wolrd</string>
+    <string name="hello_wolrd">Hello Wolrd</string>
+    <string name="txt_brithday">Happy brithday sam</string>
+    <string name="txt_from">From Emma</string>
+    <string name="img_background">image background</string>
+</resources>
